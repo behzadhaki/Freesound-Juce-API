@@ -62,5 +62,12 @@ Check out this cool example apps:
 
 
 
+### NOTE
 
+The original source code from a few years ago is available at [https://github.com/mtg/freesound-juce](https://github.com/mtg/freesound-juce).
 
+After full adaptation to the latest Freesound API and JUCE versions, the code will be moved back to the original repository.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
